@@ -67,10 +67,10 @@ const nextConfig = {
     ]
   },
   reactStrictMode: false,
-  env: {
-    CONFIG_SHOPIFY_API_KEY: process.env.SHOPIFY_API_KEY,
-    CONFIG_SHOPIFY_APP_URL: process.env.SHOPIFY_APP_URL,
-  },
+  // env: {
+  //   CONFIG_SHOPIFY_API_KEY: process.env.SHOPIFY_API_KEY,
+  //   CONFIG_SHOPIFY_APP_URL: process.env.SHOPIFY_APP_URL,
+  // },
   // experimental: {
   //   images: {
   //     unoptimized: true
