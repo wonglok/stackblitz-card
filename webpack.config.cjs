@@ -5,7 +5,7 @@ const webpack = require("webpack");
 
 const configWebpack = {
     entry: {
-        store3DApp: "./components/entry/UI.jsx",
+        ui: "./components/entry/UI.jsx",
     },
     output: {
         clean: true,
