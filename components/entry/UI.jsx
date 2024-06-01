@@ -1,4 +1,9 @@
-export function Button () {
+import {Box} from '@react-three/drei'
 
-    return <>Button</>
+export function Button () {
+    return <>
+        <group>
+            <Box></Box>
+        </group>
+    </>
 }

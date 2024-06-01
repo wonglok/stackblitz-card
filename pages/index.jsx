@@ -1,7 +1,7 @@
 export default function Page () {
     return <>
         <h1>
-            Components
+            Previwing Components
         </h1>
         <div>
             <ul>
